@@ -12,7 +12,7 @@ import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
 public class FileUtil {
-	private static final String Donloadbase = "/data/DownLoad/";
+	private static final String Donloadbase = "D:\\Data\\Download";
 
 	public static boolean unGzipFile(File sourcedir, File f) {
 		boolean ret = false;
