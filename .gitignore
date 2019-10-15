@@ -23,3 +23,9 @@ hs_err_pid*
 
 build/
 TerrainDownloader.iml
+.classpath
+
+.project
+
+.idea/
+.settings/
